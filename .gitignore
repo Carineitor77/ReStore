@@ -1,0 +1,6 @@
+﻿.vs
+
+API/bin
+API/obj
+API/Data/Migrations
+API/appsettings.json
