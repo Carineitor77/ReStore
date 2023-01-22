@@ -4,3 +4,5 @@ API/bin
 API/obj
 API/Data/Migrations
 API/appsettings.json
+
+client/node_modules
